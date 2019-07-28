@@ -4,9 +4,7 @@
 
 **Original Idea from :**
 
-****[
-
-[https://www.atlassian.com/git/tutorials/dotfiles]()]()
+https://www.atlassian.com/git/tutorials/dotfiles
 
 [https://github.com/Siilwyn/my-dotfiles/blob/master/.my-dotfiles/readme.md]()
 
