@@ -9,7 +9,7 @@ https://www.atlassian.com/git/tutorials/dotfiles
 [https://github.com/Siilwyn/my-dotfiles/blob/master/.my-dotfiles/readme.md]()
 
 ```sh
-[]()git init --bare $HOME/.my-dotfiles
+git init --bare $HOME/.my-dotfiles
 alias mydotfiles='git --git-dir=$HOME/.my-dotfiles/ --work-tree=$HOME'
 mydotfiles remote add origin git@github.com:Siilwyn/my-dotfiles.git
 ```
